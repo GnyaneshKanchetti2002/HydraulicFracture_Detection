@@ -1,0 +1,8 @@
+train: D:\Fracture Detection\data\images\train (small frac)
+val: D:\Fracture Detection\data\images\val (small frac)
+
+nc: 2
+
+names:
+  0: other
+  1: Fracture
